@@ -1,6 +1,6 @@
 This is a collection of conformal prediction resources I found and used in my journey in learning conformal prediction.
 
-For a more verbal introduction with applied cases of conformal prediction: https://arxiv.org/pdf/2107.07511
+For a more verbal introduction with applied cases of conformal prediction: https://arxiv.org/pdf/2107.07511, this tutorial also has an awesome github repo and videos: https://github.com/aangelopoulos/conformal-prediction
 
 For a more mathematically rigorous introduction:https://arxiv.org/pdf/2005.07972, https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf
 
