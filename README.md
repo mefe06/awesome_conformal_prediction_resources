@@ -5,3 +5,5 @@ For a more verbal introduction with applied cases of conformal prediction: https
 For a more mathematically rigorous introduction:https://arxiv.org/pdf/2005.07972, https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf
 
 A paper that investigates conformal prediction for time series: http://proceedings.mlr.press/v139/xu21h/xu21h.pdf
+
+Conformal prediction is very interesting in the context of NLP& LLMs: https://arxiv.org/pdf/2307.04642, https://arxiv.org/pdf/2305.18404
